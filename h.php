@@ -1,0 +1,13 @@
+http://localhost:2603/vnpay_php/vnpay_return.php?
+vnp_Amount=52600000&
+vnp_BankCode=NCB&
+vnp_BankTranNo=VNP14398855&
+vnp_CardType=ATM&
+vnp_OrderInfo=Thanh+toan+GD%3A&
+vnp_PayDate=20240502173600&
+vnp_ResponseCode=00&
+vnp_TmnCode=SXCTK7MC&
+vnp_TransactionNo=14398855&
+vnp_TransactionStatus=00&
+vnp_TxnRef=4556&
+vnp_SecureHash=f78f9d478f97391d09e2a442ae6dab3c7082d5e6b584fbdaa37797b962fb266e3f83f404f460f737d357eaffceb6cc9d5e437f19771383fdd49054f4bf3bb9e3
